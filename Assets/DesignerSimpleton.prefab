@@ -147,18 +147,22 @@ MonoBehaviour:
   - {fileID: 1203359477673314, guid: 355e0509ce85f924eb3ef8bfc1c0cc75, type: 2}
   - {fileID: 1519508939981384, guid: 04e69fd62e429204fbc98ac273d823fc, type: 2}
   - {fileID: 1632110770303186, guid: e9a52d7b43eea5d48a2966e5a46e9f42, type: 2}
+  - {fileID: 1519020986645480, guid: 829355d7a913f904583f8f1080c1cd73, type: 2}
   _backgrounds:
   - {fileID: 1781098909362652, guid: 96fc37154e473dd499394b72bff3f7d8, type: 2}
   - {fileID: 1360211784147624, guid: 6d480f476939eaa4ab8ea0729573a478, type: 2}
   - {fileID: 1772624973244280, guid: e02a67bb607e3464abfcff2840184037, type: 2}
+  - {fileID: 1051874314520704, guid: c1007679087d23a4aa02ad42809c0323, type: 2}
   _SLPoses:
   - {fileID: 4934983118862400, guid: 96fc37154e473dd499394b72bff3f7d8, type: 2}
   - {fileID: 4237704078036000, guid: 6d480f476939eaa4ab8ea0729573a478, type: 2}
   - {fileID: 4480225906760890, guid: e02a67bb607e3464abfcff2840184037, type: 2}
+  - {fileID: 4379130591787150, guid: c1007679087d23a4aa02ad42809c0323, type: 2}
   _names:
   - Balls
   - Pixels
   - Funnel
+  - Dissipation
   _sLParent: {fileID: 4086543495228848}
 --- !u!114 &114792423442704644
 MonoBehaviour:
